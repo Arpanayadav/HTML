@@ -1,1 +1,1 @@
-add new features -button
+ new feature -button
